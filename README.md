@@ -3,10 +3,17 @@
 # Hi 👋, I'm Sagar Sharma
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=00C853&center=true&vCenter=true&random=false&width=700&lines=Full+Stack+Developer;MERN+Stack+Developer;Java+%7C+Spring+Boot+Developer;Currently+Learning+AI+%26+Machine+Learning;Open+Source+Enthusiast;Always+Learning+New+Technologies" />
+<br>
 
+<p>
+<img src="https://img.shields.io/badge/Open%20Source-Love-00FFB3?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%2FML-Learning-7C4DFF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MERN-Developer-00E676?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Java-SpringBoot-FF6D00?style=for-the-badge"/>
+</p>
 ### 🚀 Turning Ideas into Scalable Software Solutions
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=00C853&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=SAGARSHARMA1000&label=Profile%20Views&color=00C853&style=for-the-badge" />
 
 </div>
 
