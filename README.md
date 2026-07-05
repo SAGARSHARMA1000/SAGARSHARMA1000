@@ -5,15 +5,14 @@
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=00C853&center=true&vCenter=true&random=false&width=700&lines=Full+Stack+Developer;MERN+Developer;Building+Scalable+Applications;Open+Source+Enthusiast;Always+Learning+New+Technologies" />
 <br>
 
-<p>
-<img src="https://img.shields.io/badge/Open%20Source-Love-00FFB3?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI%2FML-Learning-7C4DFF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MERN-Developer-00E676?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Java-SpringBoot-FF6D00?style=for-the-badge"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/React-Lover-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-Backend-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST-API-009688?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Problem-Solver-red?style=for-the-badge" />
 </p>
+
 ### 🚀 Turning Ideas into Scalable Software Solutions
-<br>
-<img src="https://komarev.com/ghpvc/?username=SAGARSHARMA1000&label=Profile%20Views&color=00C853&style=for-the-badge" />
 
 </div>
 
@@ -97,18 +96,6 @@ Fun Fact:
 
 ---
 
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SAGARSHARMA1000&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAGARSHARMA1000&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
 # 🔥 GitHub Streak
 
 <p align="center">
@@ -122,16 +109,6 @@ Fun Fact:
 # 📈 Contribution Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=SAGARSHARMA1000&theme=tokyo-night&hide_border=true"/>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=SAGARSHARMA1000&theme=tokyonight&no-frame=true&row=2&column=4"/>
-
-</p>
 
 ---
 
@@ -184,7 +161,7 @@ Currently building projects involving
 
 <p align="center">
 
-<a href="YOUR_LEETCODE">
+<a href="https://leetcode.com/u/Sagarsharma2003/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
@@ -210,7 +187,7 @@ Currently building projects involving
 - 🌱 Master AI & Machine Learning
 - ⚡ Contribute to Open Source
 - 📚 Learn System Design
-- 💯 Solve 500+ DSA Problems
+- 💯 Solve 700+ DSA Problems
 - ☁️ Build Production-Ready Applications
 - 🤝 Collaborate with Developers Worldwide
 
@@ -220,15 +197,15 @@ Currently building projects involving
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/sagar-sharma-751943336">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="YOUR_PORTFOLIO">
+<a href="https://rsv-silk.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:sagar20000sharma@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
