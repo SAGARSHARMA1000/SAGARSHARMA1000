@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Sagar Sharma
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=00C853&center=true&vCenter=true&random=false&width=700&lines=Full+Stack+Developer;MERN+Stack+Developer;Java+%7C+Spring+Boot+Developer;Currently+Learning+AI+%26+Machine+Learning;Open+Source+Enthusiast;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=00C853&center=true&vCenter=true&random=false&width=700&lines=Full+Stack+Developer;MERN+Developer;Building+Scalable+Applications;Open+Source+Enthusiast;Always+Learning+New+Technologies" />
 <br>
 
 <p>
@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/Java-SpringBoot-FF6D00?style=for-the-badge"/>
 </p>
 ### 🚀 Turning Ideas into Scalable Software Solutions
-
+<br>
 <img src="https://komarev.com/ghpvc/?username=SAGARSHARMA1000&label=Profile%20Views&color=00C853&style=for-the-badge" />
 
 </div>
@@ -101,9 +101,9 @@ Fun Fact:
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SAGARSHARMA1000&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAGARSHARMA1000&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -113,7 +113,7 @@ Fun Fact:
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=SAGARSHARMA1000&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -121,7 +121,7 @@ Fun Fact:
 
 # 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SAGARSHARMA1000&theme=tokyo-night&hide_border=true"/>
 
 ---
 
@@ -129,7 +129,7 @@ Fun Fact:
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=SAGARSHARMA1000&theme=tokyonight&no-frame=true&row=2&column=4"/>
 
 </p>
 
