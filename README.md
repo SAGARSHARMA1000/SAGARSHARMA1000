@@ -31,7 +31,6 @@ Location:
 
 Currently Working On:
   - Full Stack Web Applications
-  - Java Backend Development
   - AI & Machine Learning Projects
 
 Currently Learning:
@@ -95,6 +94,92 @@ Fun Fact:
 </p>
 
 ---
+
+## 💼 Freelance Work
+
+I have worked on and delivered production-ready web applications for clients, focusing on responsive UI, scalable backend APIs, database integration, authentication, and deployment.
+
+### 🛒 RMA Store — Custom E-Commerce Platform
+
+<a href="YOUR_RMA_STORE_LINK">
+  <img src="YOUR_RMA_STORE_SCREENSHOT_URL" alt="RMA Store" width="100%" />
+</a>
+
+**RMA Store** is a fully customized e-commerce platform developed for a client, featuring product management, shopping cart, checkout, online payments, admin controls, and responsive UI.
+
+**Key Features**
+- 🛍️ Product browsing and management
+- 🛒 Shopping cart and checkout
+- 💳 Online payment integration with Razorpay
+- 🖼️ Cloudinary-based image management
+- 👨‍💼 Admin product management
+- 📱 Responsive design for desktop and mobile
+- 🧪 Jest-based testing for key functionality
+
+**Tech Stack:**  
+`React.js` `Node.js` `Express.js` `MongoDB` `Mongoose` `Tailwind CSS` `Razorpay` `Cloudinary` `Jest`
+
+🔗 **[Live Website →](YOUR_RMA_STORE_LINK)**
+
+---
+
+### 💼 RafflesJobs — Recruitment Platform
+
+<a href="YOUR_RAFFLESJOBS_LINK">
+  <img src="YOUR_RAFFLESJOBS_SCREENSHOT_URL" alt="RafflesJobs" width="100%" />
+</a>
+
+**RafflesJobs** is a recruitment platform developed for a consultancy to manage job listings and candidate profiles through a centralized web application.
+
+**Key Features**
+- 👥 Candidate profile management
+- 🔎 Advanced candidate search
+- 📄 Resume upload and management
+- 🔐 Google OAuth authentication
+- 💼 Job listing and recruitment workflows
+- ☁️ Cloud-based file management
+- 📱 Fully responsive interface
+
+**Tech Stack:**  
+`Next.js` `React.js` `Node.js` `Express.js` `MongoDB` `Google OAuth` `Cloudinary`
+
+🔗 **[Live Website →](YOUR_RAFFLESJOBS_LINK)**
+
+---
+
+### 🌾 AgriAssure — Contract Farming Platform
+
+<a href="YOUR_AGRIASSURE_LINK">
+  <img src="YOUR_AGRIASSURE_SCREENSHOT_URL" alt="AgriAssure" width="100%" />
+</a>
+
+**AgriAssure** is a MERN-based contract farming platform connecting farmers and buyers through digital contracts, negotiation, escrow payments, marketplace listings, and delivery tracking.
+
+**Key Features**
+- 🤝 Farmer–buyer contract management
+- 💰 Escrow-based payment workflow
+- 💳 Razorpay payment integration
+- 🌾 Crop marketplace
+- 📊 Mandi rate information
+- 📑 Digital contract and signature workflow
+- 👨‍🌾 Farmer, buyer, and admin dashboards
+- 🤖 AI-powered agricultural chatbot
+
+**Tech Stack:**  
+`React.js` `Node.js` `Express.js` `MongoDB` `Razorpay` `Cloudinary` `Gemini API` `Tailwind CSS`
+
+🔗 **[Live Project →](YOUR_AGRIASSURE_LINK)**
+
+---
+
+### 📌 Freelance Experience
+
+**6+ months of freelance development experience**
+
+- Delivered **production-ready client applications** from development to deployment.
+- Worked across frontend, backend, database, authentication, APIs, cloud storage, and payments.
+- Collaborated with clients to understand requirements and implement customized features.
+- Deployed applications using **Vercel, Render, MongoDB Atlas, and Cloudinary**.
 
 # 🔥 GitHub Streak
 
