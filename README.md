@@ -101,8 +101,8 @@ I have worked on and delivered production-ready web applications for clients, fo
 
 ### 🛒 RMA Store — Custom E-Commerce Platform
 
-<a href="YOUR_RMA_STORE_LINK">
-  <img src="YOUR_RMA_STORE_SCREENSHOT_URL" alt="RMA Store" width="100%" />
+<a href="https://www.rmastore.in/">
+  <img src="./assets/rmastore.png" alt="RMA Store" width="100%" />
 </a>
 
 **RMA Store** is a fully customized e-commerce platform developed for a client, featuring product management, shopping cart, checkout, online payments, admin controls, and responsive UI.
