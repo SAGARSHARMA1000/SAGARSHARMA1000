@@ -119,14 +119,14 @@ I have worked on and delivered production-ready web applications for clients, fo
 **Tech Stack:**  
 `React.js` `Node.js` `Express.js` `MongoDB` `Mongoose` `Tailwind CSS` `Razorpay` `Cloudinary` `Jest`
 
-🔗 **[Live Website →](YOUR_RMA_STORE_LINK)**
+🔗 **[Live Website →](https://www.rmastore.in/)**
 
 ---
 
 ### 💼 RafflesJobs — Recruitment Platform
 
-<a href="YOUR_RAFFLESJOBS_LINK">
-  <img src="YOUR_RAFFLESJOBS_SCREENSHOT_URL" alt="RafflesJobs" width="100%" />
+<a href="https://www.rafflesjobs.com/">
+  <img src="./assets/rafflesjob" alt="RafflesJobs" width="100%" />
 </a>
 
 **RafflesJobs** is a recruitment platform developed for a consultancy to manage job listings and candidate profiles through a centralized web application.
@@ -143,32 +143,7 @@ I have worked on and delivered production-ready web applications for clients, fo
 **Tech Stack:**  
 `Next.js` `React.js` `Node.js` `Express.js` `MongoDB` `Google OAuth` `Cloudinary`
 
-🔗 **[Live Website →](YOUR_RAFFLESJOBS_LINK)**
-
----
-
-### 🌾 AgriAssure — Contract Farming Platform
-
-<a href="YOUR_AGRIASSURE_LINK">
-  <img src="YOUR_AGRIASSURE_SCREENSHOT_URL" alt="AgriAssure" width="100%" />
-</a>
-
-**AgriAssure** is a MERN-based contract farming platform connecting farmers and buyers through digital contracts, negotiation, escrow payments, marketplace listings, and delivery tracking.
-
-**Key Features**
-- 🤝 Farmer–buyer contract management
-- 💰 Escrow-based payment workflow
-- 💳 Razorpay payment integration
-- 🌾 Crop marketplace
-- 📊 Mandi rate information
-- 📑 Digital contract and signature workflow
-- 👨‍🌾 Farmer, buyer, and admin dashboards
-- 🤖 AI-powered agricultural chatbot
-
-**Tech Stack:**  
-`React.js` `Node.js` `Express.js` `MongoDB` `Razorpay` `Cloudinary` `Gemini API` `Tailwind CSS`
-
-🔗 **[Live Project →](YOUR_AGRIASSURE_LINK)**
+🔗 **[Live Website →](https://www.rafflesjobs.com/)**
 
 ---
 
