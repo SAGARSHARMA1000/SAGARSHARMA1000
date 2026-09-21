@@ -95,7 +95,7 @@ Fun Fact:
 
 ---
 
-## 💼 Freelance Work
+# 💼 Freelance Work
 
 I have worked on and delivered production-ready web applications for clients, focusing on responsive UI, scalable backend APIs, database integration, authentication, and deployment.
 
@@ -126,7 +126,7 @@ I have worked on and delivered production-ready web applications for clients, fo
 ### 💼 RafflesJobs — Recruitment Platform
 
 <a href="https://www.rafflesjobs.com/">
-  <img src="./assets/rafflesjob" alt="RafflesJobs" width="100%" />
+  <img src="./assets/rafflesjob.png" alt="RafflesJobs" width="100%" />
 </a>
 
 **RafflesJobs** is a recruitment platform developed for a consultancy to manage job listings and candidate profiles through a centralized web application.
@@ -147,7 +147,7 @@ I have worked on and delivered production-ready web applications for clients, fo
 
 ---
 
-### 📌 Freelance Experience
+# 📌 Freelance Experience
 
 **6+ months of freelance development experience**
 
@@ -174,35 +174,73 @@ I have worked on and delivered production-ready web applications for clients, fo
 
 # 🌟 Featured Projects
 
-## 🌾 AgriAssure
+### 🌾 AgriAssure — Contract Farming & Escrow Platform
 
-> Smart Contract Farming Platform built using MERN Stack
+<p align="center">
+  <a href="https://agriassure-beta.vercel.app">
+    <img src="./assets/agriassure.png" width="900" alt="AgriAssure"/>
+  </a>
+</p>
 
-✨ Features
+**AgriAssure** is a full-stack contract farming platform that connects farmers and buyers through digital contracts, negotiation, marketplace listings, escrow-based payments, and delivery tracking.
 
-- Secure Contract Management
-- Farmer & Buyer Dashboards
-- Marketplace
-- Escrow Payment Flow
-- Role-Based Authentication
-- Responsive UI
-- Modern Dashboard
+**✨ Highlights**
+
+* 🤝 Farmer–buyer contract creation and negotiation
+* 💰 Escrow-based payment workflow using Razorpay
+* 💳 Simulated ₹1L+ transaction workflow across contracts
+* 🌾 Farmer crop marketplace and buyer proposals
+* 📊 Mandi rate tracking and crop price information
+* 📑 Digital contract and signature workflow
+* 👨‍🌾 Role-based Farmer, Buyer & Admin dashboards
+* 🤖 AI-powered agricultural chatbot
+
+**🛠️ Tech Stack**
+
+`React.js` `Node.js` `Express.js` `MongoDB` `Mongoose`
+`Razorpay` `Cloudinary` `Tailwind CSS` `Gemini API`
+
+<p align="center">
+  <a href="https://agriassure-beta.vercel.app">🚀 Live Project</a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://github.com/SAGARSHARMA1000/Agriassure">📂 Source Code</a>
+</p>
 
 ---
 
-## 🛒 RMA Store
+### 📚 StudyNotion — EdTech Learning Platform
 
-Modern E-Commerce Platform
+<p align="center">
+  <a href="https://studynotion-iota-black.vercel.app">
+    <img src="./assets/studynotion.png" width="900" alt="StudyNotion"/>
+  </a>
+</p>
 
-✨ Features
+**StudyNotion** is a full-stack EdTech platform designed to connect students and instructors through online courses, learning content, and course management.
 
-- Authentication
-- Product Management
-- Admin Dashboard
-- Razorpay Integration
-- Order Tracking
-- Cloudinary Storage
-- Responsive Design
+**✨ Highlights**
+
+* 👨‍🎓 Student and instructor workflows
+* 📚 Course creation and management
+* 🎥 Online learning content
+* 🔐 User authentication and authorization
+* 💳 Course purchase and payment workflow
+* 📊 Student and instructor dashboards
+* ⭐ Course ratings and reviews
+* ☁️ Cloud-based media management
+* 📱 Responsive UI for desktop and mobile
+
+**🛠️ Tech Stack**
+
+`React.js` `Node.js` `Express.js` `MongoDB` `Mongoose`
+`Tailwind CSS` `Cloudinary` `Razorpay` `JWT`
+
+<p align="center">
+  <a href="https://studynotion-iota-black.vercel.app">🚀 Live Project</a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://github.com/SAGARSHARMA1000/studyv1">📂 Source Code</a>
+</p>
+
 
 ---
 
