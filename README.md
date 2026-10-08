@@ -58,7 +58,138 @@ Ask Me About:
 Fun Fact:
   "I enjoy transforming ideas into real-world software."
 ```
+## 💫 About Me
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%7C+MERN+Stack;AI+%26+Machine+Learning+Enthusiast;Building+Real-World+Production+Applications;Turning+Ideas+into+Scalable+Software" />
+</p>
+
+<p align="center">
+  <i>💡 I build, learn, experiment, and turn ideas into real-world software.</i>
+</p>
+
+<br>
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+### 👨‍💻 Who Am I?
+
+- 🎓 **B.Tech — Computer Science Engineering**
+- 📍 **Bhopal, India 🇮🇳**
+- 💼 **Full Stack Developer**
+- 🚀 **6+ months freelance experience**
+- 🧩 **300+ DSA problems solved**
+- 🏆 **SIH 2024 — Top 10 Team**
+- 🌱 Currently exploring **AI & ML**
+
+</td>
+
+<td width="50%" valign="top">
+
+### ⚡ What I'm Doing
+
+- 🔨 Building **Full Stack Web Applications**
+- 🤖 Exploring **AI & Machine Learning**
+- 🧠 Learning **Generative AI & RAG**
+- 🐍 Strengthening **Python for AI**
+- ⚙️ Improving **Backend Architecture**
+- 🏗️ Learning **System Design**
+- 🌍 Exploring **Open Source**
+
+</td>
+</tr>
+</table>
+
+<br>
+
+### 🧠 Tech I'm Comfortable With
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,java,spring,python,tailwind,git,github,docker&perline=6" />
+
+</p>
+
+<br>
+
+### 🎯 What I'm Looking For
+
+<table align="center">
+<tr>
+<td align="center" width="25%">
+
+### 🚀
+**Full Stack**
+
+MERN & Backend Engineering
+
+</td>
+
+<td align="center" width="25%">
+
+### 🤖
+**AI / ML**
+
+GenAI & AI Applications
+
+</td>
+
+<td align="center" width="25%">
+
+### 🌐
+**Open Source**
+
+Collaborative Projects
+
+</td>
+
+<td align="center" width="25%">
+
+### 💡
+**Startups**
+
+Innovative Ideas
+
+</td>
+</tr>
+</table>
+
+<br>
+
+### 💬 Ask Me About
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white"/>
+
+</p>
+
+<br>
+
+### 🌱 Currently Learning
+
+<p align="center">
+
+`🐍 Python` &nbsp; `🤖 Machine Learning` &nbsp; `🧠 Generative AI`  
+`🔎 RAG` &nbsp; `⚙️ Advanced Backend` &nbsp; `🏗️ System Design`
+
+</p>
+
+<br>
+
+<p align="center">
+
+> **"The best way to predict the future is to build it."** 🚀
+
+</p>
 ---
 
 # 🚀 Tech Stack
