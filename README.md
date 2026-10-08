@@ -17,48 +17,7 @@
 </div>
 
 ---
-
 # 💫 About Me
-
-```yaml
-Name: Sagar Sharma
-
-Education:
-  B.Tech Computer Science Engineering
-
-Location:
-  Bhopal, India 🇮🇳
-
-Currently Working On:
-  - Full Stack Web Applications
-  - AI & Machine Learning Projects
-
-Currently Learning:
-  - Artificial Intelligence
-  - Machine Learning
-  - Python for AI
-  - Advanced Backend Engineering
-  - System Design
-
-Looking to Collaborate:
-  - Open Source
-  - AI/ML Projects
-  - MERN Stack Projects
-  - Innovative Startup Ideas
-
-Ask Me About:
-  - React.js
-  - Node.js
-  - Express.js
-  - MongoDB
-  - Java
-  - Spring Boot
-  - REST APIs
-
-Fun Fact:
-  "I enjoy transforming ideas into real-world software."
-```
-## 💫 About Me
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%7C+MERN+Stack;AI+%26+Machine+Learning+Enthusiast;Building+Real-World+Production+Applications;Turning+Ideas+into+Scalable+Software" />
@@ -80,7 +39,7 @@ Fun Fact:
 - 📍 **Bhopal, India 🇮🇳**
 - 💼 **Full Stack Developer**
 - 🚀 **6+ months freelance experience**
-- 🧩 **300+ DSA problems solved**
+- 🧩 **500+ DSA problems solved**
 - 🏆 **SIH 2024 — Top 10 Team**
 - 🌱 Currently exploring **AI & ML**
 
