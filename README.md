@@ -19,16 +19,6 @@
 ---
 # 💫 About Me
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%7C+MERN+Stack;AI+%26+Machine+Learning+Enthusiast;Building+Real-World+Production+Applications;Turning+Ideas+into+Scalable+Software" />
-</p>
-
-<p align="center">
-  <i>💡 I build, learn, experiment, and turn ideas into real-world software.</i>
-</p>
-
-<br>
-
 <table align="center">
 <tr>
 <td width="50%" valign="top">
