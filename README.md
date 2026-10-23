@@ -45,7 +45,6 @@
 - 🤖 Exploring **Generative AI, RAG & LLM applications**
 - 🧠 Working with **LangChain.js, ChromaDB & AI APIs**
 - ⚙️ Improving **Backend Architecture & API Design**
-- 🗄️ Optimizing **MongoDB schemas and search performance**
 - 🚀 Building practical solutions that combine **Web Development & AI**
 
 </td>
@@ -91,7 +90,7 @@ GenAI, RAG & LLM Applications
 ### 🌐
 **Open Source**
 
-Collaborative Projects
+Collaboration & Community Projects
 
 </td>
 
@@ -165,7 +164,7 @@ Startups & Real-World Innovation
 ### 🤖 AI / GenAI
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,openai,tensorflow,pytorch" />
+<img src="https://skillicons.dev/icons?i=python,flask,tensorflow,pytorch" />
 </p>
 
 ### 📊 Data / ML
@@ -297,8 +296,8 @@ I have worked on and delivered production-ready web applications for clients, fo
 ### 🏭 FactoryIQ — AI-Powered Industrial Knowledge Intelligence Platform
 
 <p align="center">
-  <a href="YOUR_FACTORYIQ_LIVE_URL">
-    <img src="./assets/factoryiq.png" width="900" alt="FactoryIQ"/>
+  <a href="https://factoryiq-1.vercel.app">
+    <img src="./assets/factoryIq.png" width="900" alt="FactoryIQ"/>
   </a>
 </p>
 
@@ -323,9 +322,9 @@ I have worked on and delivered production-ready web applications for clients, fo
 `LangChain.js` `RAG` `LLMs` `Claude API` `OpenAI API` `Tesseract.js`
 
 <p align="center">
-  <a href="YOUR_FACTORYIQ_LIVE_URL">🚀 Live Project</a>
+  <a href="https://factoryiq-1.vercel.app">🚀 Live Project</a>
   &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="YOUR_FACTORYIQ_GITHUB_URL">📂 Source Code</a>
+  <a href="https://github.com/SAGARSHARMA1000/FACTORYIQ1">📂 Source Code</a>
 </p>
 
 ---
