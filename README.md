@@ -25,13 +25,14 @@
 
 ### 👨‍💻 Who Am I?
 
-- 🎓 **B.Tech — Computer Science Engineering**
-- 📍 **Bhopal, India 🇮🇳**
-- 💼 **Full Stack Developer**
-- 🚀 **6+ months freelance experience**
-- 🧩 **500+ DSA problems solved**
+- 🎓 **B.Tech CSE Graduate — 2026**
+- 📍 **Bhopal, Madhya Pradesh, India 🇮🇳**
+- 💼 **Full Stack Developer | MERN Stack**
+- 🚀 **6+ months of freelance development experience**
+- 🌐 Built and deployed **2 production platforms**
+- 🧩 Solved **500+ DSA problems**
 - 🏆 **SIH 2024 — Top 10 Team**
-- 🌱 Currently exploring **AI & ML**
+- 🤖 Interested in **AI-integrated product engineering**
 
 </td>
 
@@ -39,13 +40,13 @@
 
 ### ⚡ What I'm Doing
 
-- 🔨 Building **Full Stack Web Applications**
-- 🤖 Exploring **AI & Machine Learning**
-- 🧠 Learning **Generative AI & RAG**
-- 🐍 Strengthening **Python for AI**
-- ⚙️ Improving **Backend Architecture**
-- 🏗️ Learning **System Design**
-- 🌍 Exploring **Open Source**
+- 🔨 Building scalable **Full Stack Web Applications**
+- 🌐 Developing production-ready products with **React, Next.js & Node.js**
+- 🤖 Exploring **Generative AI, RAG & LLM applications**
+- 🧠 Working with **LangChain.js, ChromaDB & AI APIs**
+- ⚙️ Improving **Backend Architecture & API Design**
+- 🗄️ Optimizing **MongoDB schemas and search performance**
+- 🚀 Building practical solutions that combine **Web Development & AI**
 
 </td>
 </tr>
@@ -70,18 +71,18 @@
 <td align="center" width="25%">
 
 ### 🚀
-**Full Stack**
+**Software Engineering**
 
-MERN & Backend Engineering
+Full Stack & MERN Development
 
 </td>
 
 <td align="center" width="25%">
 
 ### 🤖
-**AI / ML**
+**AI Engineering**
 
-GenAI & AI Applications
+GenAI, RAG & LLM Applications
 
 </td>
 
@@ -97,9 +98,9 @@ Collaborative Projects
 <td align="center" width="25%">
 
 ### 💡
-**Startups**
+**Product Engineering**
 
-Innovative Ideas
+Startups & Real-World Innovation
 
 </td>
 </tr>
@@ -127,7 +128,7 @@ Innovative Ideas
 
 <p align="center">
 
-`🐍 Python` &nbsp; `🤖 Machine Learning` &nbsp; `🧠 Generative AI`  
+`➡️ MLOps ` &nbsp; `🤖 Machine Learning` &nbsp; `🧠 Generative AI`  
 `🔎 RAG` &nbsp; `⚙️ Advanced Backend` &nbsp; `🏗️ System Design`
 
 </p>
@@ -161,18 +162,23 @@ Innovative Ideas
 <img src="https://skillicons.dev/icons?i=nodejs,express,spring,mongodb,mysql" />
 </p>
 
+### 🤖 AI / GenAI
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,openai,tensorflow,pytorch" />
+</p>
+
+### 📊 Data / ML
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,sklearn" />
+</p>
+
 ### ☁️ Cloud & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel,githubactions" />
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel,postman,jest" />
 </p>
-
-### 🤖 AI / ML (Learning)
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
-</p>
-
 ---
 
 # 💼 Freelance Work
@@ -288,6 +294,42 @@ I have worked on and delivered production-ready web applications for clients, fo
 
 ---
 
+### 🏭 FactoryIQ — AI-Powered Industrial Knowledge Intelligence Platform
+
+<p align="center">
+  <a href="YOUR_FACTORYIQ_LIVE_URL">
+    <img src="./assets/factoryiq.png" width="900" alt="FactoryIQ"/>
+  </a>
+</p>
+
+**FactoryIQ** is an AI-powered industrial knowledge intelligence platform built for ET AI Hackathon 2.0 (Problem Statement #8). It leverages Retrieval-Augmented Generation (RAG), vector search, and Large Language Models (LLMs) to transform industrial documents into actionable insights, enabling users to retrieve accurate information and make informed decisions efficiently.
+
+**✨ Highlights**
+
+* 🤖 AI-powered industrial knowledge assistant
+* 🔍 Semantic search across industrial documents
+* 🧠 Retrieval-Augmented Generation (RAG) pipeline
+* 📄 Document processing and OCR using Tesseract.js
+* 🗃️ Vector embeddings and similarity search with ChromaDB
+* 🔗 Context-aware responses using LangChain.js
+* 💬 Natural language querying of industrial knowledge
+* ⚡ AI integration with Claude/OpenAI APIs
+* 📊 Structured access to industrial information
+* 📱 Responsive UI for desktop and mobile
+
+**🛠️ Tech Stack**
+
+`React.js` `Node.js` `Express.js` `MongoDB` `ChromaDB`  
+`LangChain.js` `RAG` `LLMs` `Claude API` `OpenAI API` `Tesseract.js`
+
+<p align="center">
+  <a href="YOUR_FACTORYIQ_LIVE_URL">🚀 Live Project</a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="YOUR_FACTORYIQ_GITHUB_URL">📂 Source Code</a>
+</p>
+
+---
+
 ### 📚 StudyNotion — EdTech Learning Platform
 
 <p align="center">
@@ -320,7 +362,6 @@ I have worked on and delivered production-ready web applications for clients, fo
   &nbsp;&nbsp;•&nbsp;&nbsp;
   <a href="https://github.com/SAGARSHARMA1000/studyv1">📂 Source Code</a>
 </p>
-
 
 ---
 
